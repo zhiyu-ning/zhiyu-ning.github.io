@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## About Me
+# 🧍‍♂️ About Me
 I received a B.S. degree in Optoelectronic Information Science and Engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2024. I am currently pursuing a Ph.D. degree in Optical Engineering at the School of Optical and Electronic Information, HUST, Wuhan, China.
 
-## Research Interests
+# 🔍 Research Interests
 - Micro/Nanophotonics
 - Metasurfaces
 - Holographic Displays
