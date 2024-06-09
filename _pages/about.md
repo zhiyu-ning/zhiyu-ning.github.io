@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Zhiyu Ning's Homepage"
+excerpt: /
 author_profile: ture
 redirect_from: 
   - /about/
@@ -25,6 +25,22 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 - Metasurfaces
 - Holographic Displays
 
+<span class='anchor' id='-educations'></span>
+# Educations
+- *2024.06 - (now)*, Huazhong University of Science and Technology, Ph.D. 
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. 
+
+<span class='anchor' id='-visitors-map'></span>
+# Visitors Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+{# 
+# Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,23 +65,4 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-<span class='anchor' id='-educations'></span>
-# Educations
-- *2024.06 - (now)*, Huazhong University of Science and Technology, Ph.D. 
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. 
-
-
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
-
-<span class='anchor' id='-visitors-map'></span>
-# Visitors Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
+#}
