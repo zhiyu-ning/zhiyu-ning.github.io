@@ -25,7 +25,7 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 - Metasurfaces
 - Holographic Displays
 
-{% comment %}
+
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -49,21 +49,21 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 # Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-{% endcomment %}
+
 
 <span class='anchor' id='-educations'></span>
 # Educations
 - *2024.06 - (now)*, Huazhong University of Science and Technology, Ph.D. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. 
 
-{% comment %}
+
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-{% endcomment %}
+
 
 <span class='anchor' id='-visitors-map'></span>
 # Visitors Map
