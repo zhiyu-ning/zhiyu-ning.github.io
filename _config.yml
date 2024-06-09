@@ -7,8 +7,6 @@
 
 # Site Settings
 title                    : "Zhiyu Ning's Homepage"
-name                     : &name "Zhiyu Ning's Homepage"
-description              : &description "personal description"
 description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "ZacharyNing/ZacharyNing.github.io"
 google_scholar_stats_use_cdn : true
