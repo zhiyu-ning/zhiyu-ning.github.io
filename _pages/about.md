@@ -21,7 +21,9 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-- Micro/Nanophotonics - Metasurfaces - Holographic Displays
+- Micro/Nanophotonics
+- Metasurfaces
+- Holographic Displays
 
 {% comment %}
 # News
