@@ -27,7 +27,7 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 
 <span class='anchor' id='-educations'></span>
 # Educations
-- *2024.06 - (now)*, Huazhong University of Science and Technology, Ph.D. 
+- *2024.09 - (now)*, Huazhong University of Science and Technology, Ph.D. 
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. 
 
 <span class='anchor' id='-visitors-map'></span>
