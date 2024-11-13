@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyu Ning(宁志宇)"
   avatar           : "images/test2.png"
-  bio              : "Ph.D student, HUST"
-  location         : "Wuhan, Hubei, China"
+  bio              : "Ph.D student @ HUST"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
