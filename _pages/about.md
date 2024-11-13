@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 # About Me
-Hello! I am a Ph.D. candidate in Optical Engineering at the [School of Optical and Electronic Information](https://oei.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), under the supervision of [Professor Cheng Zhang](http://light.oei.hust.edu.cn/Members/Team_leader.htm).   I am working within the [Cheng Zhang research group](http://light.oei.hust.edu.cn/, where my research focuses on metaphotonics and holographic displays.
+Hello! I am a Ph.D. candidate in Optical Engineering at the [School of Optical and Electronic Information](https://oei.hust.edu.cn/), [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), under the supervision of [Professor Cheng Zhang](http://light.oei.hust.edu.cn/Members/Team_leader.htm).   I am working within the [Cheng Zhang research group](http://light.oei.hust.edu.cn/), where my research focuses on metaphotonics and holographic displays.
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
