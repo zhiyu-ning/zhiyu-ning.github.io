@@ -21,14 +21,19 @@ I received a B.S. degree in Optoelectronic Information Science and Engineering f
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-- Micro/Nanophotonics
-- Metasurfaces
 - Holographic Displays
+- Metaphotonics
+- Micro-nano processing
 
 <span class='anchor' id='-educations'></span>
 # Educations
 - *2024.09 - (now)*, Huazhong University of Science and Technology, Ph.D. 
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. 
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
+
+<span class='anchor' id='-honors-and-awards'></span>
+# Honors and Awards
+- *2024.6* Outstanding Undergraduate Thesis of 2024 Graduates from Huazhong University of Science and Technology (华中科技大学2024届本科生优秀毕业设计论文). 
+- *2024.5* Third Prize, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电本科生论坛). 
 
 <span class='anchor' id='-visitors-map'></span>
 # Visitors Map
