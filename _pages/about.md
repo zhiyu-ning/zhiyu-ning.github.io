@@ -28,8 +28,8 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 
 <span class='anchor' id='-educations'></span>
 # Educations
-- *2024.09 - (now)*, Huazhong University of Science and Technology, Ph.D. 
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
+- *2024.09 - (now)*, Ph.D Student, Huazhong University of Science and Technology. 
+- *2020.09 - 2024.06*, Undergraduate, Huazhong University of Science and Technology.
 
 <span class='anchor' id='-news'></span>
 # News
