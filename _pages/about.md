@@ -40,7 +40,7 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
  
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
-- *2024.10* &nbsp;🏆🏆 Third Study Scholarship for Ph.D. Students, 2024, Huazhong University of Science and Technology (HUST). 
+- *2024.10* &nbsp;🏆🏆 Third Graduate Study Scholarship for Ph.D. Students, 2024, Huazhong University of Science and Technology (HUST). 
 - *2024.06* &nbsp;🏆🏆 Excellent Undergraduate Thesis of 2024 Graduates, Huazhong University of Science and Technology (HUST) (华中科技大学2024届本科生优秀毕业设计论文). 
 - *2024.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电子本科生论坛). 
 
