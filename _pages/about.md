@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 # About Me
-I received a B.S. degree in Optoelectronic Information Science and Engineering from Huazhong University of Science and Technology (HUST), Wuhan, China, in 2024. I am currently pursuing a Ph.D. degree in Optical Engineering at the School of Optical and Electronic Information, HUST, Wuhan, China.
+Hello! I am a Ph.D. candidate in Optical Engineering at the School of Optical and Electronic Information "https://oei.hust.edu.cn/", Huazhong University of Science and Technology (HUST) "https://www.hust.edu.cn/", under the supervision of Professor Cheng Zhang. My research focuses on metaphotonics and holographic displays, where I aim to advance the development of optical systems for next-generation imaging and display technologies.
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
