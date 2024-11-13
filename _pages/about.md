@@ -39,8 +39,8 @@ Hello! I am a Ph.D. candidate in Optical Engineering at the [School of Optical a
  
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
-- *2024.6* Outstanding Undergraduate Dissertation of 2024 Graduates from HUST (华中科技大学2024届本科生优秀毕业设计论文). 
-- *2024.5* Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电本科生论坛). 
+- *2024.6* &nbsp;🏆🏆 Outstanding Undergraduate Dissertation of 2024 Graduates from HUST (华中科技大学2024届本科生优秀毕业设计论文). 
+- *2024.5* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电本科生论坛). 
 
 <span class='anchor' id='-visitors-map'></span>
 # Visitors Map
