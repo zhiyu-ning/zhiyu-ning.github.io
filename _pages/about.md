@@ -23,7 +23,7 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
 - Holographic Displays
-- Metaphotonics
+- Micro/Nano-Optics and Photonics
 - Micro-nano Processing
 
 <span class='anchor' id='-educations'></span>
