@@ -33,6 +33,8 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 
 <span class='anchor' id='-news'></span>
 # News
+- *2025.05*: &nbsp;🎉🎉 Oral Presentation Accepted at the [2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_N2IzYjNkM2JhYmM3Y2I3Yjk0NTcyNzkyM2Y0ZGY2ZWQ=).
+- *2025.05*: &nbsp;🎉🎉 Flash Report Accepted at the [The 4th AI Photonics Technology Symposium](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_ZTJiYjA2ZmFiNGMyMGNkOGM1OTJlODkyMjJkMzc3ZGI=).
 - *2024.07*: &nbsp;🎉🎉 Poster Presentation Accepted at the [5th Anniversary Academic Forum of Advanced Photonics and the 6th China Optics Valley (Wuhan) Laser Technology Young Researchers Forum](https://www.opticsjournal.net/cl/apwh.html). 
 - *2024.06*: &nbsp;🎉🎉 I received my B.S. degree from Huazhong University of Science and Technology.
 - *2024.05*: &nbsp;🎉🎉 Oral Presentation Accepted at the [2024 China Optics Valley Optoelectronics Undergraduate Forum](https://oei.hust.edu.cn/info/1091/8844.htm).
@@ -40,6 +42,7 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
  
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
+- *2025.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo (2025中国光谷·光电本科生论坛、光电研究生学术交流会--第二十届武汉光博会同期会议). 
 - *2024.10* &nbsp;🏆🏆 Third-class Scholarship for Doctoral Students, 2024-2025, Huazhong University of Science and Technology (HUST). 
 - *2024.06* &nbsp;🏆🏆 Excellent Undergraduate Thesis of 2024 Graduates, Huazhong University of Science and Technology (HUST) (华中科技大学2024届本科生优秀毕业设计论文). 
 - *2024.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电子本科生论坛). 
