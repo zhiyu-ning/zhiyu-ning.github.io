@@ -33,7 +33,7 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 
 <span class='anchor' id='-publications'></span>
 # Publications 
-**Zhiyu Ning†**, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang*, "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders", under review.
+**Zhiyu Ning†**, Zeyang Liu†\*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang\*, "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders", under review.
 
 <span class='anchor' id='-news'></span>
 # News
