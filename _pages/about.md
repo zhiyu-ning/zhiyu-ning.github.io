@@ -47,11 +47,13 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 - *2024.06* &nbsp;🏆🏆 Excellent Undergraduate Thesis of 2024 Graduates, Huazhong University of Science and Technology (HUST) (华中科技大学2024届本科生优秀毕业设计论文). 
 - *2024.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电子本科生论坛). 
 
+
+
+{% comment %}
 <span class='anchor' id='-visitors-map'></span>
 # Visitors Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
-{% comment %}
 # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
@@ -64,7 +66,6 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
