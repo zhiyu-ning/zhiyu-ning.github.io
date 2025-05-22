@@ -6,8 +6,8 @@ main:
   - title: "Research Interests"
     url: "/#-research-interests"
 
-#  - title: "Publications"
-#    url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Educations"
     url: "/#-educations"
