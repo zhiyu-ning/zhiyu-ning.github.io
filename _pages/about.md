@@ -29,12 +29,13 @@ For further communication, please contact me at [zhiyuning@hust.edu.cn](zhiyunin
 **Zhiyu Ning**†, Zeyang Liu†\*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang\*, "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders", ***Nanophotonics***, In Press. [DOI: 10.1002/nap2.70078](https://doi.org/10.1002/nap2.70078)
 
 <span class='anchor' id='-educations'></span>
-# Educations
-- *2024.09 - Present*, Ph.D. Student, Huazhong University of Science and Technology. 
-- *2020.09 - 2024.06*, Undergraduate, Huazhong University of Science and Technology.
+# Education
+- *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
 
 <span class='anchor' id='-news'></span>
 # News
+- *2026.03*: &nbsp;🎉🎉 Paper titled "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" Accepted by  Nanophotonics.
 - *2025.05*: &nbsp;🎉🎉 Oral Presentation Accepted at [2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_N2IzYjNkM2JhYmM3Y2I3Yjk0NTcyNzkyM2Y0ZGY2ZWQ=).
 - *2025.05*: &nbsp;🎉🎉 Flash Report Accepted at [the 4th AI Photonics Technology Symposium](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_ZTJiYjA2ZmFiNGMyMGNkOGM1OTJlODkyMjJkMzc3ZGI=).
 - *2024.07*: &nbsp;🎉🎉 Poster Presentation Accepted at [the 5th Anniversary Academic Forum of Advanced Photonics and the 6th China Optics Valley (Wuhan) Laser Technology Young Researchers Forum](https://www.opticsjournal.net/cl/apwh.html). 
