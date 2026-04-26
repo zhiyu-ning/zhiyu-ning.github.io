@@ -22,8 +22,8 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-· **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
-· **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
+- **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
+- **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
 
 
 <span class='anchor' id='-publications'></span>
