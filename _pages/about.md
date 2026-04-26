@@ -37,15 +37,14 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-  <div style="flex: 1 1 250px; padding: 20px; border-radius: 8px; background-color: #ffffff; border: 1px solid #eaecef; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: transform 0.2s ease;">
-    <div style="font-size: 28px; margin-bottom: 10px;">🔬</div>
-    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 18px; color: #24292e;">Metaphotonics</h3>
-    <p style="margin: 0; font-size: 14px; color: #586069; line-height: 1.5;">Metasurfaces, Meta-holography, and Advanced Light-field manipulation.</p>
+  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; color: #24292e;">Metaphotonics</h3>
+    <p style="margin: 0; font-size: 15px; color: #586069; line-height: 1.6;">Metasurfaces, Meta-holography, and Light-field manipulation.</p>
   </div>
-  <div style="flex: 1 1 250px; padding: 20px; border-radius: 8px; background-color: #ffffff; border: 1px solid #eaecef; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: transform 0.2s ease;">
-    <div style="font-size: 28px; margin-bottom: 10px;">🥽</div>
-    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 18px; color: #24292e;">Augmented Reality (AR)</h3>
-    <p style="margin: 0; font-size: 14px; color: #586069; line-height: 1.5;">Waveguide-coupled systems and Full-color 3D display technologies.</p>
+  
+  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; color: #24292e;">Augmented Reality (AR)</h3>
+    <p style="margin: 0; font-size: 15px; color: #586069; line-height: 1.6;">Waveguide-coupled systems, Full-color 3D displays.</p>
   </div>
 </div>
 
