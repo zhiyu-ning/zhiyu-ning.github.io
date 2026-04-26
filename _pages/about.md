@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='-about-me'></span>
 # About Me
-Hello! I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), specialized in Optical Engineerring. My research, co-advised  by [Prof. Cheng Zhang](http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm) and [Dr. Zeyang Liu](http://faculty.hust.edu.cn/LIUZEYANG/zh_CN/index.htm), focuses on metaphotonics and holographic displays.  
+Hello! I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), specialized in Optical Engineering. My research, co-advised  by [Prof. Cheng Zhang](http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm) and [Dr. Zeyang Liu](http://faculty.hust.edu.cn/LIUZEYANG/zh_CN/index.htm), focuses on metaphotonics and holographic displays.  
 Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-research-interests'></span>
