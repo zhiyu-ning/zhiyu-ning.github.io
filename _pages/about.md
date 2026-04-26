@@ -24,13 +24,13 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 # News
 <div style="max-height: 250px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px 20px; border-radius: 6px; background-color: #f6f8fa; font-size: 15px; margin-bottom: 30px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.8;">
-    <li><strong>2026.04:</strong> 🎉 "[Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders](https://doi.org/10.1002/nap2.70078)" has been officially published in an issue of <em>Nanophotonics</em>.</li>
-    <li><strong>2026.03:</strong> 📝 "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been accepted for publication.</li>
-    <li><strong>2025.05:</strong> 🎤 Oral Presentation Accepted at 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference.</li>
-    <li><strong>2025.05:</strong> ⚡ Flash Report Accepted at the 4th AI Photonics Technology Symposium.</li>
-    <li><strong>2024.07:</strong> 📊 Poster Presentation Accepted at the 5th Anniversary Academic Forum of Advanced Photonics and the 6th China Optics Valley (Wuhan) Laser Technology Young Researchers Forum.</li>
-    <li><strong>2024.06:</strong> 🎓 I received my B.S. degree from Huazhong University of Science and Technology.</li>
-    <li><strong>2024.05:</strong> 🎤 Oral Presentation Accepted at 2024 China Optics Valley Optoelectronics Undergraduate Forum.</li>
+    <li><strong>2026.04:</strong> 🎉 "[Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders]" has been officially <strong>Published</strong> in an issue of <em>Nanophotonics</em>.</li>
+    <li><strong>2026.03:</strong> 📝 "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been <strong>Accepted</strong> for publication.</li>
+    <li><strong>2025.05:</strong> 🎤 <strong>Oral Presentation Accepted</strong> at 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference.</li>
+    <li><strong>2025.05:</strong> ⚡ <strong>Flash Report Accepted</strong> at the 4th AI Photonics Technology Symposium.</li>
+    <li><strong>2024.07:</strong> 📊 <strong>Poster Presentation Accepted</strong> at the 5th Anniversary Academic Forum of Advanced Photonics and the 6th China Optics Valley (Wuhan) Laser Technology Young Researchers Forum.</li>
+    <li><strong>2024.06:</strong> 🎓 I received my <strong>B.S. Degree</strong> from Huazhong University of Science and Technology.</li>
+    <li><strong>2024.05:</strong> 🎤 <strong>Oral Presentation Accepted</strong> at 2024 China Optics Valley Optoelectronics Undergraduate Forum.</li>
   </ul>
 </div>
 
