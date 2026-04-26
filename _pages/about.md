@@ -37,18 +37,68 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-publications'></span>
 # Publications 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start; margin-bottom: 35px;">
-  
-  <div style="flex: 0 1 260px; text-align: center; box-sizing: border-box;">
-    <img src="/images/Nanophotonics_2026.jpg" alt="Abstract" style="width: 100%; max-width: 260px; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); display: inline-block;">
+<style>
+  /* 基础容器样式 */
+  .pub-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; /* PC端垂直居中 */
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+    width: 100%;
+  }
+
+  /* 图片容器样式 */
+  .pub-image {
+    flex: 0 0 260px; /* PC端固定基础宽度 */
+    max-width: 280px;
+    text-align: center;
+  }
+
+  .pub-image img {
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    display: block;
+  }
+
+  /* 文字容器样式 */
+  .pub-text {
+    flex: 1 1 350px;
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: left;
+  }
+
+  /* 📱 手机端适配逻辑 */
+  @media (max-width: 768px) {
+    .pub-row {
+      gap: 15px; /* 缩小间距 */
+    }
+    .pub-image {
+      flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
+      max-width: 100%;
+      order: 1; /* 确保图片在上 */
+    }
+    .pub-text {
+      flex: 0 0 100%;
+      order: 2; /* 确保文字在下 */
+      text-align: left; /* 手机端文字通常建议左对齐或两端对齐 */
+    }
+  }
+</style>
+
+<div class="pub-row">
+  <div class="pub-image">
+    <img src="/images/Nanophotonics_2026.jpg" alt="Waveguide Metahologram">
   </div>
-  
-  <div style="flex: 1 1 300px; text-align: left; font-size: 16px; line-height: 1.6; box-sizing: border-box;">
+  <div class="pub-text">
     <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
-    <strong><em>Nanophotonics</em></strong>, e70078 (2026).
+    <strong style="color: #e6a200;"><em>Nanophotonics</em></strong>, e70078 (2026).
   </div>
 </div>
 
