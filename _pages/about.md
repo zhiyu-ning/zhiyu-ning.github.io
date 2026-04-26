@@ -16,7 +16,6 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='-about-me'></span>
-# About Me
 <div style="background-color: #f0f7ff; padding: 25px; border-radius: 8px; border-left: 5px solid #005bac; margin-bottom: 30px;">
   <h1 style="margin-top: 0; color: #005bac;">About Me</h1>
   <p style="font-size: 16.5px; line-height: 1.7; margin-bottom: 0; color: #24292e;">
