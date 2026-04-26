@@ -1,4 +1,4 @@
----
+<img width="1362" height="481" alt="image" src="https://github.com/user-attachments/assets/7f723f9e-3939-4284-8e63-ed8bbef93b47" />---
 permalink: /
 title: "Zhiyu Ning's Homepage"
 excerpt: /
@@ -22,6 +22,17 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-news'></span>
 # News
+<div style="max-height: 250px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px 20px; border-radius: 6px; background-color: #f6f8fa; font-size: 15px; margin-bottom: 30px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);">
+  <ul style="margin: 0; padding-left: 20px; line-height: 1.8;">
+    <li><strong>2026.04:</strong> 🎉 "Waveguide-based four-channel crosstalk-free metahologram..." has been officially published in an issue of <em>Nanophotonics</em>.</li>
+    <li><strong>2026.03:</strong> 📝 "Waveguide-based four-channel crosstalk-free metahologram..." has been accepted for publication.</li>
+    <li><strong>2025.05:</strong> 🎤 Oral Presentation Accepted at 2025 China Optics Valley Exchange Conference.</li>
+    <li><strong>2025.05:</strong> ⚡ Flash Report Accepted at the 4th AI Photonics Technology Symposium.</li>
+    <li><strong>2024.07:</strong> 📊 Poster Presentation Accepted at the 5th Anniversary Academic Forum of Advanced Photonics.</li>
+    <li><strong>2024.06:</strong> 🎓 I received my B.S. degree from Huazhong University of Science and Technology.</li>
+  </ul>
+</div>
+
 - *2026.04*: &nbsp;🎉🎉 "**[Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders](https://doi.org/10.1002/nap2.70078)**" has been officially published in an issue of *Nanophotonics*.
 - *2026.03*: &nbsp;🎉🎉 "**Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders**" has been accepted for publication in *Nanophotonics*.
 - *2025.05*: &nbsp;🎉🎉 Oral Presentation Accepted at [2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_N2IzYjNkM2JhYmM3Y2I3Yjk0NTcyNzkyM2Y0ZGY2ZWQ=).
