@@ -22,6 +22,7 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-news'></span>
 # News
+- *2026.04*: &nbsp;🎉🎉 "**Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders**" has been officially published in an issue of *Nanophotonics*. [[DOI](https://doi.org/10.1002/nap2.70078)]
 - *2026.03*: &nbsp;🎉🎉 "**Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders**" has been accepted for publication in *Nanophotonics*.
 - *2025.05*: &nbsp;🎉🎉 Oral Presentation Accepted at [2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_N2IzYjNkM2JhYmM3Y2I3Yjk0NTcyNzkyM2Y0ZGY2ZWQ=).
 - *2025.05*: &nbsp;🎉🎉 Flash Report Accepted at [the 4th AI Photonics Technology Symposium](https://cn.ovcexpo.com.cn/content.html?id=Expo_Axj_ZTJiYjA2ZmFiNGMyMGNkOGM1OTJlODkyMjJkMzc3ZGI=).
