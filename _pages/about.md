@@ -30,6 +30,20 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 # Publications 
 **Zhiyu Ning**†, Zeyang Liu†\*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang\*, "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders", ***Nanophotonics***, e70078. [DOI: 10.1002/nap2.70078](https://doi.org/10.1002/nap2.70078)
 
+# Publications
+
+## 2026:
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; margin-bottom: 30px;">
+  <div style="flex: 0 0 40%; min-width: 250px; padding-right: 20px; box-sizing: border-box;">
+    <img src="/images/nanophotonics_2026.png" alt="Waveguide Metahologram Abstract" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; font-size: 16px; line-height: 1.6;">
+    **Zhiyu Ning**†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang*, <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">"Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"</a>, <strong style="color: #e6a200;"><em>Nanophotonics</em></strong>, e70078 (2026).
+  </div>
+</div>
+
 <span class='anchor' id='-educations'></span>
 # Education
 - *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student
