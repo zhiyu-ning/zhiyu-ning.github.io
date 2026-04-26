@@ -23,7 +23,7 @@ redirect_from:
     <br><br>
     Contact: <a href="mailto:zhiyuning@hust.edu.cn" style="color: #005bac;">zhiyuning@hust.edu.cn</a>
     <div style="margin-top: 15px;">
-  <a href="/assets/CV_Zhiyu_Ning.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #2b7bb9; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<a href="/assets/CV_Zhiyu_Ning.pdf" target="_blank" style="display: inline-block; padding: 8px 16px; background-color: #2b7bb9; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
     📄 Download Full CV
   </a>
 </div>
