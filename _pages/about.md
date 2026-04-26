@@ -37,9 +37,6 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-publications'></span>
 # Publications 
-<span class='anchor' id='-publications'></span>
-# Publications 
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-items: flex-start; margin-bottom: 35px;">
   
   <div style="flex: 0 1 260px; text-align: center; box-sizing: border-box;">
