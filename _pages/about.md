@@ -36,8 +36,18 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-- **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
-- **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1 1 250px; padding: 20px; border-radius: 8px; background-color: #ffffff; border: 1px solid #eaecef; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: transform 0.2s ease;">
+    <div style="font-size: 28px; margin-bottom: 10px;">🔬</div>
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 18px; color: #24292e;">Metaphotonics</h3>
+    <p style="margin: 0; font-size: 14px; color: #586069; line-height: 1.5;">Metasurfaces, Meta-holography, and Advanced Light-field manipulation.</p>
+  </div>
+  <div style="flex: 1 1 250px; padding: 20px; border-radius: 8px; background-color: #ffffff; border: 1px solid #eaecef; box-shadow: 0 2px 8px rgba(0,0,0,0.04); transition: transform 0.2s ease;">
+    <div style="font-size: 28px; margin-bottom: 10px;">🥽</div>
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 18px; color: #24292e;">Augmented Reality (AR)</h3>
+    <p style="margin: 0; font-size: 14px; color: #586069; line-height: 1.5;">Waveguide-coupled systems and Full-color 3D display technologies.</p>
+  </div>
+</div>
 
 <span class='anchor' id='-publications'></span>
 # Publications 
