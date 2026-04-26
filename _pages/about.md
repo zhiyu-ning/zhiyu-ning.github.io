@@ -1,13 +1,3 @@
-<img width="1362" height="481" alt="image" src="https://github.com/user-attachments/assets/7f723f9e-3939-4284-8e63-ed8bbef93b47" />---
-permalink: /
-title: "Zhiyu Ning's Homepage"
-excerpt: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
