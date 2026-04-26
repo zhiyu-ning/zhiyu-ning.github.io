@@ -33,7 +33,7 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
     <img src="/images/Nanophotonics_2026.jpg" alt="Waveguide Metahologram Abstract" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   </div>
   <div style="flex: 1; min-width: 300px; font-size: 16px; line-height: 1.6;">
-    Zhiyu Ning†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang*, <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">"Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"</a>, <strong style="color: #e6a200;"><em>Nanophotonics</em></strong>, e70078 (2026).
+    <strong> Zhiyu Ning </strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Ziqian Xi, Tianzhang Peng, Xinliang Zhang, Cheng Zhang*, <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">"Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"</a>, <strong <em>Nanophotonics</em></strong>, e70078 (2026).
   </div>
 </div>
 
@@ -58,35 +58,3 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 - *2024.06* &nbsp;🏆🏆 Excellent Undergraduate Thesis of 2024 Graduates, Huazhong University of Science and Technology (HUST) (华中科技大学2024届本科生优秀毕业设计论文). 
 - *2024.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电子本科生论坛). 
 
-
-
-{% comment %}
-<span class='anchor' id='-visitors-map'></span>
-# Visitors Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
-# Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-
-# News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# Honors and Awards
-- *2024.10* &nbsp;🏆🏆 Third-class Scholarship for Doctoral Students, 2024-2025, Huazhong University of Science and Technology (HUST). 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-{% endcomment %}
