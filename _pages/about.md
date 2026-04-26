@@ -22,7 +22,9 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-· Holographic Displays     · Micro/Nano-Optics and Photonics
+· **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
+· **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
+
 
 <span class='anchor' id='-publications'></span>
 # Publications 
