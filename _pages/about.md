@@ -48,7 +48,7 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
-    <strong style="color: #e6a200;"><em>Nanophotonics</em></strong>, e70078 (2026).
+    <strong><em>Nanophotonics</em></strong>, e70078 (2026).
   </div>
 </div>
 
