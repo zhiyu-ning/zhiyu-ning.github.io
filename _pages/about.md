@@ -20,17 +20,6 @@ redirect_from:
 Hello! I am a Ph.D. candidate at [Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/), specialized in Optical Engineering. My research, co-advised  by [Prof. Cheng Zhang](http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm) and [Dr. Zeyang Liu](http://faculty.hust.edu.cn/LIUZEYANG/zh_CN/index.htm), focuses on metaphotonics and holographic displays.  
 Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 
-
-<span class='anchor' id='-educations'></span>
-# Education
-- *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
-
-<span class='anchor' id='-research-interests'></span>
-# Research Interests
-- **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
-- **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
-
 <span class='anchor' id='-news'></span>
 # News
 - *2026.03*: &nbsp;🎉🎉 "**Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders**" has been accepted for publication in *Nanophotonics*.
@@ -40,14 +29,37 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 - *2024.06*: &nbsp;🎉🎉 I received my B.S. degree from Huazhong University of Science and Technology.
 - *2024.05*: &nbsp;🎉🎉 Oral Presentation Accepted at [2024 China Optics Valley Optoelectronics Undergraduate Forum](https://oei.hust.edu.cn/info/1091/8844.htm).
 
+<span class='anchor' id='-research-interests'></span>
+# Research Interests
+- **Metaphotonics**: Metasurfaces, Meta-holography, and Light-field manipulation.
+- **Augmented Reality (AR)**: Waveguide-coupled systems, Full-color 3D displays.
+
 <span class='anchor' id='-publications'></span>
 # Publications 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 30px;">
-  <div style="flex: 1 1 200px; max-width: 260px; box-sizing: border-box;">
-    <img src="/images/Nanophotonics_2026.jpg" alt="Abstract" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  </div>
-  
-  <div style="flex: 2 1 300px; font-size: 16px; line-height: 1.6;">
+<div class="publication-entry" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px; margin-bottom: 30px;">
+  <style>
+    /* 当屏幕宽度小于等于 768 像素时（手机端） */
+    @media (max-width: 768px) {
+      .publication-entry .image-container {
+        width: 100%; /* 图片容器占满宽度 */
+        display: flex;
+        justify-content: center; /* 内部图片居中 */
+        padding-right: 0; /* 移除左右间距 */
+      }
+      .publication-entry .image-container img {
+        max-width: 100%; /* 图片适应容器 */
+        margin: 0 auto; /* 自动居中 */
+      }
+      .publication-entry .text-container {
+        width: 100%; /* 文本容器占满宽度 */
+        text-align: left; /* 文本保持靠左对齐，符合阅读习惯 */
+      }
+    }
+  </style>
+  <div class="image-container" style="flex: 1 1 200px; max-width: 260px; box-sizing: border-box;">
+    <img src="/images/Nanophotonics_2026.jpg" alt="摘要" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  </div>  
+  <div class="text-container" style="flex: 2 1 300px; font-size: 16px; line-height: 1.6;">
     <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">"Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"</a>, <strong><em>Nanophotonics</em></strong>, e70078 (2026).
   </div>
 </div>
@@ -57,4 +69,9 @@ Contact: [zhiyuning@hust.edu.cn](zhiyuning@hust.edu.cn).
 - *2025.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo (2025中国光谷·光电本科生论坛、光电研究生学术交流会 - 第二十届武汉光博会同期会议). 
 - *2024.06* &nbsp;🏆🏆 Excellent Undergraduate Thesis of 2024 Graduates, Huazhong University of Science and Technology (HUST) (华中科技大学2024届本科生优秀毕业设计论文). 
 - *2024.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2024 China Optics Valley Optoelectronics Undergraduate Forum (2024中国光谷·光电子本科生论坛). 
+
+<span class='anchor' id='-educations'></span>
+# Education
+- *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
 
