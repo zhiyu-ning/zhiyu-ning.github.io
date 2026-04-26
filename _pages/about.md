@@ -2,7 +2,7 @@
 permalink: /
 title: "Zhiyu Ning's Homepage"
 excerpt: /
-author_profile: ture
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
