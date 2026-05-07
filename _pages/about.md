@@ -125,6 +125,23 @@ redirect_from:
   </div>
 </div>
 
+<span class='anchor' id='-patents'></span>
+# Patents
+<ul style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
+  <li style="margin-bottom: 15px;">
+    Cheng Zhang, <strong>Zhiyu Ning</strong>, Zeyang Liu, Deqian Zheng, Niu Liu, Hao Gao, 
+    <a href="https://patents.google.com/patent/CN120276228B/" target="_blank" style="color: #2b7bb9; text-decoration: none;">"一种超构全息器件及其设计方法和成像方法 (A metahologram device, and its design and imaging methods)"</a>, 
+    <em>China Patent</em>, Patent No. CN120276228B, 2026. 
+    <span style="display: inline-block; padding: 2px 8px; background-color: #e1f5fe; color: #0277bd; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Authorized</span>
+  </li>
+  <li style="margin-bottom: 10px;">
+    Cheng Zhang, Zeyang Liu, Erning Liao, <strong>Zhiyu Ning</strong>, 
+    <a href="https://patents.google.com/patent/CN120577961A/" target="_blank" style="color: #2b7bb9; text-decoration: none;">"一种基于高阶色散匹配的宽带消色差超构表面器件设计方法 (A design method for broadband achromatic metasurface devices based on high-order dispersion matching)"</a>, 
+    <em>China Patent</em>, Pub. No. CN120577961A, 2025. 
+    <span style="display: inline-block; padding: 2px 8px; background-color: #fff8e1; color: #f57f17; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Under Review</span>
+  </li>
+</ul>
+
 <span class='anchor' id='-honors-and-awards'></span>
 # Honors and Awards
 - *2025.05* &nbsp;🏆🏆 Third Prize for Oral Presentation, 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference - Parallel Conference of the 20th OVC Expo (2025中国光谷·光电本科生论坛、光电研究生学术交流会 - 第二十届武汉光博会同期会议). 
