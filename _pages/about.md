@@ -129,14 +129,14 @@ redirect_from:
 # Patents
 <ul style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
   <li style="margin-bottom: 15px;">
-    Cheng Zhang, <strong>Zhiyu Ning (宁志宇)</strong>, Zeyang Liu, Deqian Zheng, Niu Liu, Hao Gao, 
-    <a href="https://patents.google.com/patent/CN120276228B/" target="_blank" style="color: #2b7bb9; text-decoration: none;">"一种超构全息器件及其设计方法和成像方法"</a>, 
+    Cheng Zhang(张诚), <strong>Zhiyu Ning (宁志宇)</strong>, Zeyang Liu(刘泽阳), Deqian Zheng(郑德乾), Niu Liu(刘妞), Hao Gao(高豪), 
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN460217209" target="_blank" style="color: #2b7bb9; text-decoration: none;">"A metasurface holographic device, a design method thereof, and an imaging method are provided(一种超构全息器件及其设计方法和成像方法)"</a>, 
     <em>China Patent</em>, Patent No. CN120276228B, 2026. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #e1f5fe; color: #0277bd; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Authorized</span>
   </li>
   <li style="margin-bottom: 10px;">
-    Cheng Zhang, Zeyang Liu, Erning Liao, <strong>Zhiyu Ning (宁志宇)</strong>, 
-    <a href="https://patents.google.com/patent/CN120577961A/" target="_blank" style="color: #2b7bb9; text-decoration: none;">"一种基于高阶色散匹配的宽带消色差超构表面器件设计方法"</a>, 
+    Cheng Zhang(张诚), Zeyang Liu(刘泽阳), Erning Liao(廖二宁), <strong>Zhiyu Ning (宁志宇)</strong>, 
+    <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN463699050" target="_blank" style="color: #2b7bb9; text-decoration: none;">"High-order chromatic dispersion matching-based broadband achromatic metasurface device design method(一种基于高阶色散匹配的宽带消色差超构表面器件设计方法)"</a>, 
     <em>China Patent</em>, Pub. No. CN120577961A, 2025. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #fff8e1; color: #f57f17; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Under Review</span>
   </li>
@@ -150,6 +150,6 @@ redirect_from:
 
 <span class='anchor' id='-educations'></span>
 # Education
-- *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student
-- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S.
+- *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student in Optical Engineering.
+- *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. in Optoelectronic Information Science and Engineering.
 
