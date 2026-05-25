@@ -137,9 +137,9 @@ redirect_from:
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9; font-weight: 500;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
-    <em>Nanophotonics</em>, 15(9), e70078 (2026).
+    <strong><em>Nanophotonics</em></strong>, 15(9), e70078 (2026).
     <a href="https://doi.org/10.1002/nap2.70149" class="cover-badge">
-      Featured Cover (Issue 10)
+      Featured Cover
     </a>
   </div>
 </div>
