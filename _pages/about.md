@@ -34,7 +34,7 @@ redirect_from:
 # News
 <div style="max-height: 250px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px 20px; border-radius: 6px; background-color: #f6f8fa; font-size: 15px; margin-bottom: 30px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.8;">
-    <li><strong>2026.05:</strong> 🌟 Our paper on <em>Nanophotonics</em> is selected as a <strong>Featured Cover Article</strong> (Issue 10) for its highlight of diffraction-order multiplexing!</li>
+    <li><strong>2026.05:</strong> 🌟 <strong>Paper</strong> "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" on <em>Nanophotonics</em> is selected as a <strong>Featured Cover Article</strong>!</li>
     <li><strong>2026.04:</strong> 🎉 <strong>Paper</strong> "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been officially <strong>Published</strong> in an issue of <em>Nanophotonics</em>.</li>
     <li><strong>2026.03:</strong> 📝 <strong>Paper</strong> "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been <strong>Accepted</strong> for publication.</li>
     <li><strong>2025.05:</strong> 🎤 <strong>Oral Presentation Accepted</strong> at 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference.</li>
@@ -118,10 +118,10 @@ redirect_from:
     "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
   </a>, 
   <strong style="font-style: italic;">Nanophotonics</strong> 
-  <a href="https://doi.org/10.1002/nap2.70149" style="text-decoration: none; color: #e6a200; font-weight: bold; font-size: 0.9em; margin-left: 5px;">
+  <a href="https://doi.org/10.1002/nap2.70149" style="text-decoration: none; font-size: 0.9em; margin-left: 5px;">
     [Featured Cover (Issue 10)]
   </a>, 
-  e70078 (2026).
+  15(9), e70078 (2026).
 </div>
 </div>
 
