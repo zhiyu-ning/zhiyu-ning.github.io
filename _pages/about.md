@@ -197,20 +197,24 @@ redirect_from:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
   
   <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Academic Network</h3>
+    <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Related Research Groups</h3>
     <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 1.8;">
-      <li><a href="http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Prof. Cheng Zhang's Group @ HUST</a></li>
-      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">[Colleague/Lab Link 1]</a></li>
-      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">[Meta-AR Research Group 2]</a></li>
+      <li><a href="https://light.hust.edu.cn/index.htm" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Cheng Zhang Research Group @HUST</a></li>
+      <li><a href="https://guolab.engin.umich.edu/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">GUO Research Group @UMICH</a></li>
+      <li><a href="http://www.holoddd.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Liangcai Cao's HoloLab @THU</a></li>
+      <li><a href="http://www.bitnanolab.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Lingling Huang's LNND @BIT</a></li>
+      <li><a href="https://taoli.nju.edu.cn/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Tao Li's MIT Group @NJU</a></li>
+      <li><a href="https://whuneal.wordpress.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Zhongyang Li's NEAL Group @WHU</a></li>
     </ul>
   </div>
   
   <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
     <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Toolkit & Resources</h3>
     <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 1.8;">
-      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">MATLAB / Reticolo RCWA Toolkit</a></li>
-      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Blender bpy API Scripts for Optics</a></li>
-      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">iOS Scriptable Utilities</a></li>
+      <li><a href="https://www.lp2n.institutoptique.fr/light-complex-nanostructures#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">RETICOLO</a> <span style="font-size: 0.9em; color: #888;">- RCWA solver</span></li>
+      <li><a href="https://github.com/NanoComp/meep" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">MEEP</a> <span style="font-size: 0.9em; color: #888;">- FDTD simulation</span></li>
+      <li><a href="https://www.overleaf.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Overleaf</a> <span style="font-size: 0.9em; color: #888;">- LaTeX editor</span></li>
+      <li><a href="https://www.blender.org/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Blender</a> <span style="font-size: 0.9em; color: #888;">- 3D rendering</span></li>
     </ul>
   </div>
 
