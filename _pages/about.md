@@ -62,55 +62,95 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # Publications 
 <style>
-  /* 基础容器 */
+
+  /* 基础容器样式 */
+
   .pub-row {
+
     display: flex;
+
     flex-wrap: wrap;
-    align-items: flex-start; /* 改为 flex-start 让整体重心更稳 */
+
+    align-items: center; /* PC端垂直居中 */
+
+    justify-content: center;
+
     gap: 30px;
+
     margin-bottom: 40px;
-  }
-  /* 图片容器：更灵活的弹性配置 */
-  .pub-image {
-    flex: 0 0 25%;
-    max-width: 250px;
-    min-width: 150px;
-    text-align: center;
-  }
-  .pub-image img {
+
     width: 100%;
-    max-height: 250px; /* 限制纵向封面过高 */
-    object-fit: contain;
+
+  }
+
+  /* 图片容器样式 */
+
+  .pub-image {
+
+    flex: 0 0 260px; /* PC端固定基础宽度 */
+
+    max-width: 280px;
+
+    text-align: center;
+
+  }
+
+  .pub-image img {
+
+    width: 100%;
+
     border-radius: 6px;
+
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+
     display: block;
+
   }
-  /* 文字容器 */
+
+  /* 文字容器样式 */
+
   .pub-text {
-    flex: 1;
-    min-width: 300px;
+
+    flex: 1 1 350px;
+
     font-size: 16px;
+
     line-height: 1.7;
+
     text-align: left;
+
   }
-  /* 勋章样式 */
-  .cover-badge {
-    background-color: #fdf6ec; 
-    color: #e6a200; 
-    padding: 2px 8px; 
-    border-radius: 4px; 
-    font-weight: bold; 
-    text-decoration: none; 
-    border: 1px solid #faecd8;
-    font-size: 0.85em;
-    margin-left: 8px;
-    display: inline-block;
-  }
-  /* 📱 手机端优化 */
+
+  /* 📱 手机端适配逻辑 */
+
   @media (max-width: 768px) {
-    .pub-row { gap: 20px; }
-    .pub-image { flex: 0 0 100%; max-width: 100%; }
-    .pub-text { flex: 0 0 100%; }
+
+    .pub-row {
+
+      gap: 15px; /* 缩小间距 */
+
+    }
+
+    .pub-image {
+
+      flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
+
+      max-width: 100%;
+
+      order: 1; /* 确保图片在上 */
+
+    }
+
+    .pub-text {
+
+      flex: 0 0 100%;
+
+      order: 2; /* 确保文字在下 */
+
+      text-align: left; /* 手机端文字通常建议左对齐或两端对齐 */
+
+    }
+
   }
 </style>
 
