@@ -133,7 +133,7 @@ redirect_from:
     <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
   </div>
   <div class="pub-text">
-    <strong>Zhiyu (Jackie) Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
+    <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9; font-weight: 500;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
@@ -148,13 +148,13 @@ redirect_from:
 # Patents
 <ul style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
   <li style="margin-bottom: 15px;">
-    Cheng Zhang(张诚), <strong>Zhiyu (Jackie) Ning (宁志宇)</strong>, Zeyang Liu(刘泽阳), Deqian Zheng(郑德乾), Niu Liu(刘妞), Hao Gao(高豪), 
+    Cheng Zhang(张诚), <strong>Zhiyu Ning (宁志宇)</strong>, Zeyang Liu(刘泽阳), Deqian Zheng(郑德乾), Niu Liu(刘妞), Hao Gao(高豪), 
     <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN460217209" target="_blank" style="color: #2b7bb9; text-decoration: none;">"A metasurface holographic device, a design method thereof, and an imaging method are provided(一种超构全息器件及其设计方法和成像方法)"</a>, 
     <em>China Patent</em>, Patent No. CN120276228B, 2026. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #e1f5fe; color: #0277bd; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Authorized</span>
   </li>
   <li style="margin-bottom: 10px;">
-    Cheng Zhang(张诚), Zeyang Liu(刘泽阳), Erning Liao(廖二宁), <strong>Zhiyu (Jackie) Ning (宁志宇)</strong>, 
+    Cheng Zhang(张诚), Zeyang Liu(刘泽阳), Erning Liao(廖二宁), <strong>Zhiyu Ning (宁志宇)</strong>, 
     <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN463699050" target="_blank" style="color: #2b7bb9; text-decoration: none;">"High-order chromatic dispersion matching-based broadband achromatic metasurface device design method(一种基于高阶色散匹配的宽带消色差超构表面器件设计方法)"</a>, 
     <em>China Patent</em>, Pub. No. CN120577961A, 2025. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #fff8e1; color: #f57f17; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Under Review</span>
