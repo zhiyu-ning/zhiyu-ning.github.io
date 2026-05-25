@@ -34,6 +34,7 @@ redirect_from:
 # News
 <div style="max-height: 250px; overflow-y: auto; border: 1px solid #e1e4e8; padding: 15px 20px; border-radius: 6px; background-color: #f6f8fa; font-size: 15px; margin-bottom: 30px; box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);">
   <ul style="margin: 0; padding-left: 20px; line-height: 1.8;">
+    <li><strong>2026.05:</strong> 🌟 Our paper on <em>Nanophotonics</em> is selected as a <strong>Featured Cover Article</strong> (Issue 10) for its highlight of diffraction-order multiplexing!</li>
     <li><strong>2026.04:</strong> 🎉 <strong>Paper</strong> "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been officially <strong>Published</strong> in an issue of <em>Nanophotonics</em>.</li>
     <li><strong>2026.03:</strong> 📝 <strong>Paper</strong> "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders" has been <strong>Accepted</strong> for publication.</li>
     <li><strong>2025.05:</strong> 🎤 <strong>Oral Presentation Accepted</strong> at 2025 China Optics Valley · Optoelectronics Undergraduate and Graduate Academic Exchange Conference.</li>
@@ -71,21 +72,18 @@ redirect_from:
     margin-bottom: 40px;
     width: 100%;
   }
-
   /* 图片容器样式 */
   .pub-image {
     flex: 0 0 260px; /* PC端固定基础宽度 */
     max-width: 280px;
     text-align: center;
   }
-
   .pub-image img {
     width: 100%;
     border-radius: 6px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     display: block;
   }
-
   /* 文字容器样式 */
   .pub-text {
     flex: 1 1 350px;
@@ -93,7 +91,6 @@ redirect_from:
     line-height: 1.7;
     text-align: left;
   }
-
   /* 📱 手机端适配逻辑 */
   @media (max-width: 768px) {
     .pub-row {
@@ -111,22 +108,20 @@ redirect_from:
     }
   }
 </style>
-
 <div class="pub-row">
   <div class="pub-image">
-    <img src="/images/Nanophotonics_cover_2026.jpg" alt="Waveguide Metahologram">
+    <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
   </div>
 <div class="pub-text">
   <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
   <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">
     "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
   </a>, 
-  <em>Nanophotonics</em>, 15(9), e70078 (2026).
-  <div style="margin-top: 8px;">
-    <a href="https://doi.org/10.1002/nap2.70149" style="font-size: 14px; text-decoration: none; color: #e6a200; border: 1px solid #e6a200; padding: 2px 8px; border-radius: 4px; display: inline-block; transition: all 0.3s;">
-      <strong>★ Featured Cover Article (Issue 10)</strong>
-    </a>
-  </div>
+  <strong style="font-style: italic;">Nanophotonics</strong> 
+  <a href="https://doi.org/10.1002/nap2.70149" style="text-decoration: none; color: #e6a200; font-weight: bold; font-size: 0.9em; margin-left: 5px;">
+    [Featured Cover (Issue 10)]
+  </a>, 
+  e70078 (2026).
 </div>
 </div>
 
