@@ -128,6 +128,7 @@ redirect_from:
     </a>
   </div>
 </div>
+</div>
 
 <span class='anchor' id='-patents'></span>
 # Patents
