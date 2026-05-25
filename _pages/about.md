@@ -47,16 +47,26 @@ redirect_from:
 
 <span class='anchor' id='-research-interests'></span>
 # Research Interests
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
-  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; color: #24292e;">Metaphotonics</h3>
-    <p style="margin: 0; font-size: 15px; color: #586069; line-height: 1.6;">Metasurfaces, Meta-holography, and Light-field manipulation.</p>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; margin-bottom: 40px; padding: 10px 0;">
+  
+  <div style="flex: 1 1 250px;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 19px; color: #005bac; border-bottom: 2px solid #e1e4e8; padding-bottom: 5px; display: inline-block;">
+      Metaphotonics
+    </h3>
+    <p style="margin: 0; font-size: 15.5px; color: #24292e; line-height: 1.7;">
+      Exploring light-matter interactions at the nanoscale. My current focus includes metasurface design, meta-holography, and advanced light-field manipulation techniques.
+    </p>
   </div>
   
-  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 18px; color: #24292e;">Augmented Reality (AR)</h3>
-    <p style="margin: 0; font-size: 15px; color: #586069; line-height: 1.6;">Waveguide-coupled systems, Full-color 3D displays.</p>
+  <div style="flex: 1 1 250px;">
+    <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 19px; color: #005bac; border-bottom: 2px solid #e1e4e8; padding-bottom: 5px; display: inline-block;">
+      Augmented Reality (AR)
+    </h3>
+    <p style="margin: 0; font-size: 15.5px; color: #24292e; line-height: 1.7;">
+      Developing next-generation visual interfaces. I am particularly interested in waveguide-coupled optical systems and the realization of full-color 3D holographic displays.
+    </p>
   </div>
+
 </div>
 
 <span class='anchor' id='-publications'></span>
