@@ -62,95 +62,69 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # Publications 
 <style>
-
   /* 基础容器样式 */
-
   .pub-row {
-
     display: flex;
-
     flex-wrap: wrap;
-
-    align-items: center; /* PC端垂直居中 */
-
+    align-items: center; /* 恢复为PC端垂直居中 */
     justify-content: center;
-
     gap: 30px;
-
     margin-bottom: 40px;
-
     width: 100%;
-
   }
 
   /* 图片容器样式 */
-
   .pub-image {
-
     flex: 0 0 260px; /* PC端固定基础宽度 */
-
     max-width: 280px;
-
     text-align: center;
-
   }
 
   .pub-image img {
-
     width: 100%;
-
     border-radius: 6px;
-
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-
     display: block;
-
   }
 
   /* 文字容器样式 */
-
   .pub-text {
-
     flex: 1 1 350px;
-
     font-size: 16px;
-
     line-height: 1.7;
-
     text-align: left;
+  }
 
+  /* 补全缺失的勋章样式 */
+  .cover-badge {
+    background-color: #fdf6ec; 
+    color: #e6a200; 
+    padding: 2px 8px; 
+    border-radius: 4px; 
+    font-weight: bold; 
+    text-decoration: none; 
+    border: 1px solid #faecd8;
+    font-size: 0.85em;
+    margin-left: 8px;
+    display: inline-block;
+    white-space: nowrap; /* 关键：防止勋章被挤换行 */
   }
 
   /* 📱 手机端适配逻辑 */
-
   @media (max-width: 768px) {
-
     .pub-row {
-
       gap: 15px; /* 缩小间距 */
-
     }
-
     .pub-image {
-
       flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
-
       max-width: 100%;
-
       order: 1; /* 确保图片在上 */
-
     }
-
     .pub-text {
-
       flex: 0 0 100%;
-
       order: 2; /* 确保文字在下 */
-
       text-align: left; /* 手机端文字通常建议左对齐或两端对齐 */
-
     }
-
   }
 </style>
 
@@ -159,12 +133,10 @@ redirect_from:
     <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
   </div>
   <div class="pub-text">
-    <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
-    <br>
+    <strong>Zhiyu (Jackie) Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9; font-weight: 500;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
-    <br>
     <em>Nanophotonics</em>, 15(9), e70078 (2026).
     <a href="https://doi.org/10.1002/nap2.70149" class="cover-badge">
       Featured Cover (Issue 10)
@@ -176,13 +148,13 @@ redirect_from:
 # Patents
 <ul style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
   <li style="margin-bottom: 15px;">
-    Cheng Zhang(张诚), <strong>Zhiyu Ning (宁志宇)</strong>, Zeyang Liu(刘泽阳), Deqian Zheng(郑德乾), Niu Liu(刘妞), Hao Gao(高豪), 
+    Cheng Zhang(张诚), <strong>Zhiyu (Jackie) Ning (宁志宇)</strong>, Zeyang Liu(刘泽阳), Deqian Zheng(郑德乾), Niu Liu(刘妞), Hao Gao(高豪), 
     <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN460217209" target="_blank" style="color: #2b7bb9; text-decoration: none;">"A metasurface holographic device, a design method thereof, and an imaging method are provided(一种超构全息器件及其设计方法和成像方法)"</a>, 
     <em>China Patent</em>, Patent No. CN120276228B, 2026. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #e1f5fe; color: #0277bd; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Authorized</span>
   </li>
   <li style="margin-bottom: 10px;">
-    Cheng Zhang(张诚), Zeyang Liu(刘泽阳), Erning Liao(廖二宁), <strong>Zhiyu Ning (宁志宇)</strong>, 
+    Cheng Zhang(张诚), Zeyang Liu(刘泽阳), Erning Liao(廖二宁), <strong>Zhiyu (Jackie) Ning (宁志宇)</strong>, 
     <a href="https://patentscope.wipo.int/search/en/detail.jsf?docId=CN463699050" target="_blank" style="color: #2b7bb9; text-decoration: none;">"High-order chromatic dispersion matching-based broadband achromatic metasurface device design method(一种基于高阶色散匹配的宽带消色差超构表面器件设计方法)"</a>, 
     <em>China Patent</em>, Pub. No. CN120577961A, 2025. 
     <span style="display: inline-block; padding: 2px 8px; background-color: #fff8e1; color: #f57f17; border-radius: 12px; font-size: 13px; font-weight: bold; margin-left: 5px;">Under Review</span>
@@ -199,4 +171,3 @@ redirect_from:
 # Education
 - *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student in Optical Engineering.
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. in Optoelectronic Information Science and Engineering.
-
