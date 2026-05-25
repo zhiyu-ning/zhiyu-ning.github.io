@@ -62,70 +62,90 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # Publications 
 <style>
-  /* 基础容器样式 */
+/* ==========================================================================
+   Publications Section Layout
+   ========================================================================== */
+
+/* 1. 基础容器：锁定 PC 端布局，文字垂直居中 */
+.pub-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;    /* 恢复 PC 端垂直居中对齐 */
+  justify-content: center; /* 在大屏幕上居中显示 */
+  gap: 30px;
+  margin-bottom: 40px;
+  width: 100%;
+}
+
+/* 2. 图片容器：锁定 300px 正方形 */
+.pub-image {
+  flex: 0 0 300px; /* 固定基础宽度为 300px */
+  max-width: 300px; /* 强制最大宽度 */
+  height: 300px;    /* 强制固定高度，实现正方形 */
+  text-align: center;
+  background-color: #ffffff; /* 设定正方形白底 */
+  border-radius: 6px; /* 保持圆角样式 */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1); /* 保持阴影 */
+  overflow: hidden; /* 防止图片溢出 */
+  display: flex;    /* 开启 Flexbox 用于内部居中 */
+  align-items: center;    /* 内部图片上下居中 */
+  justify-content: center; /* 内部图片左右居中 */
+}
+
+/* 3. 目标图片样式：实现缩放加白边 */
+.pub-image img {
+  width: 100%;   /* 默认占满容器宽度 */
+  height: auto;  /* 高度自适应 */
+  max-width: 100%;  /* 防止图片超过容器 */
+  max-height: 100%; /* 防止图片超过容器 */
+  object-fit: contain; /* 关键属性：将图片缩放到刚好填满容器，短边加白边 */
+  border-radius: 4px; /* 内部图片圆角微调 */
+  display: block;
+}
+
+/* 4. 文字容器：自适应剩余空间 */
+.pub-text {
+  flex: 1 1 350px;
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: left;
+}
+
+/* 5. 勋章样式：保持不变 */
+.cover-badge {
+  background-color: #fdf6ec; 
+  color: #e6a200; 
+  padding: 2px 8px; 
+  border-radius: 4px; 
+  font-weight: bold; 
+  text-decoration: none; 
+  border: 1px solid #faecd8;
+  font-size: 0.85em;
+  margin-left: 8px;
+  display: inline-block;
+  white-space: nowrap; /* 防止勋章换行 */
+}
+
+/* ==========================================================================
+   📱 手机端适配逻辑：保持不变
+   ========================================================================== */
+@media (max-width: 768px) {
   .pub-row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center; /* 恢复为PC端垂直居中 */
-    justify-content: center;
-    gap: 30px;
-    margin-bottom: 40px;
-    width: 100%;
+    gap: 15px; /* 缩小间距 */
   }
-
-  /* 图片容器样式 */
   .pub-image {
-    flex: 0 0 260px; /* PC端固定基础宽度 */
-    max-width: 280px;
-    text-align: center;
-  }
-
-  .pub-image img {
-    width: 100%;
+    flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
+    max-width: 100%;
+    height: auto;   /* 手机端高度自适应，还原图片原本比例 */
+    order: 1; /* 确保图片在上 */
     border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    display: block;
   }
-
-  /* 文字容器样式 */
   .pub-text {
-    flex: 1 1 350px;
-    font-size: 16px;
-    line-height: 1.7;
-    text-align: left;
+    flex: 0 0 100%;
+    order: 2; /* 确保文字在下 */
+    text-align: left; /* 手机端文字居左 */
   }
-
-  /* 补全缺失的勋章样式 */
-  .cover-badge {
-    background-color: #fdf6ec; 
-    color: #e6a200; 
-    padding: 2px 8px; 
-    border-radius: 4px; 
-    font-weight: bold; 
-    text-decoration: none; 
-    border: 1px solid #faecd8;
-    font-size: 0.85em;
-    margin-left: 8px;
-    display: inline-block;
-    white-space: nowrap; /* 关键：防止勋章被挤换行 */
-  }
-
-  /* 📱 手机端适配逻辑 */
-  @media (max-width: 768px) {
-    .pub-row {
-      gap: 15px; /* 缩小间距 */
-    }
-    .pub-image {
-      flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
-      max-width: 100%;
-      order: 1; /* 确保图片在上 */
-    }
-    .pub-text {
-      flex: 0 0 100%;
-      order: 2; /* 确保文字在下 */
-      text-align: left; /* 手机端文字通常建议左对齐或两端对齐 */
-    }
-  }
+}
 </style>
 
 <div class="pub-row">
