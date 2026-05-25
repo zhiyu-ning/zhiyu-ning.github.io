@@ -212,9 +212,14 @@ redirect_from:
     <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Toolkit & Resources</h3>
     <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 1.8;">
       <li><a href="https://www.lp2n.institutoptique.fr/light-complex-nanostructures#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">RETICOLO</a> <span style="font-size: 0.9em; color: #888;">- RCWA solver</span></li>
+      <li><a href="https://www.ansys.com/zh-cn/products/optics/fdtd" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Lumerical FDTD</a> <span style="font-size: 0.9em; color: #888;">- Nanophotonic simulation</span></li>
       <li><a href="https://github.com/NanoComp/meep" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">MEEP</a> <span style="font-size: 0.9em; color: #888;">- FDTD simulation</span></li>
-      <li><a href="https://www.overleaf.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Overleaf</a> <span style="font-size: 0.9em; color: #888;">- LaTeX editor</span></li>
+      <li><a href="https://www.klayout.de/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Klayout</a> <span style="font-size: 0.9em; color: #888;">- GDSII mask layout</span></li>
       <li><a href="https://www.blender.org/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Blender</a> <span style="font-size: 0.9em; color: #888;">- 3D rendering</span></li>
+      <li><a href="https://www.overleaf.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Overleaf</a> <span style="font-size: 0.9em; color: #888;">- LaTeX editor</span></li>
+      
+      
+      
     </ul>
   </div>
 
