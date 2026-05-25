@@ -62,67 +62,74 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # Publications 
 <style>
-  /* 基础容器样式 */
+  /* 基础容器 */
   .pub-row {
     display: flex;
     flex-wrap: wrap;
-    align-items: center; /* PC端垂直居中 */
-    justify-content: center;
+    align-items: flex-start; /* 改为 flex-start 让整体重心更稳 */
     gap: 30px;
     margin-bottom: 40px;
-    width: 100%;
   }
-  /* 图片容器样式 */
+  /* 图片容器：更灵活的弹性配置 */
   .pub-image {
-    flex: 0 0 260px; /* PC端固定基础宽度 */
-    max-width: 280px;
+    flex: 0 0 25%;
+    max-width: 250px;
+    min-width: 150px;
     text-align: center;
   }
   .pub-image img {
     width: 100%;
+    max-height: 250px; /* 限制纵向封面过高 */
+    object-fit: contain;
     border-radius: 6px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     display: block;
   }
-  /* 文字容器样式 */
+  /* 文字容器 */
   .pub-text {
-    flex: 1 1 350px;
+    flex: 1;
+    min-width: 300px;
     font-size: 16px;
     line-height: 1.7;
     text-align: left;
   }
-  /* 📱 手机端适配逻辑 */
+  /* 勋章样式 */
+  .cover-badge {
+    background-color: #fdf6ec; 
+    color: #e6a200; 
+    padding: 2px 8px; 
+    border-radius: 4px; 
+    font-weight: bold; 
+    text-decoration: none; 
+    border: 1px solid #faecd8;
+    font-size: 0.85em;
+    margin-left: 8px;
+    display: inline-block;
+  }
+  /* 📱 手机端优化 */
   @media (max-width: 768px) {
-    .pub-row {
-      gap: 15px; /* 缩小间距 */
-    }
-    .pub-image {
-      flex: 0 0 100%; /* 图片容器强制占满 100% 宽度 */
-      max-width: 100%;
-      order: 1; /* 确保图片在上 */
-    }
-    .pub-text {
-      flex: 0 0 100%;
-      order: 2; /* 确保文字在下 */
-      text-align: left; /* 手机端文字通常建议左对齐或两端对齐 */
-    }
+    .pub-row { gap: 20px; }
+    .pub-image { flex: 0 0 100%; max-width: 100%; }
+    .pub-text { flex: 0 0 100%; }
   }
 </style>
+
 <div class="pub-row">
   <div class="pub-image">
     <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
   </div>
-<div class="pub-text">
-  <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
-  <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9;">
-    "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
-  </a>, 
-  <strong style="font-style: italic;">Nanophotonics</strong> 
-  <a href="https://doi.org/10.1002/nap2.70149" style="text-decoration: none; font-size: 0.9em; margin-left: 5px;">
-    [Featured Cover (Issue 10)]
-  </a>, 
-  15(9), e70078 (2026).
-</div>
+  <div class="pub-text">
+    <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
+    <br>
+    <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9; font-weight: 500;">
+      "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
+    </a>, 
+    <br>
+    <em>Nanophotonics</em>, 15(9), e70078 (2026).
+    <a href="https://doi.org/10.1002/nap2.70149" class="cover-badge">
+      Featured Cover (Issue 10)
+    </a>
+  </div>
 </div>
 
 <span class='anchor' id='-patents'></span>
