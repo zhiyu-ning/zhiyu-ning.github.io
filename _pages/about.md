@@ -191,3 +191,27 @@ redirect_from:
 # Education
 - *2024.09 - Present*, Huazhong University of Science and Technology, Ph.D. Student in Optical Engineering.
 - *2020.09 - 2024.06*, Huazhong University of Science and Technology, B.S. in Optoelectronic Information Science and Engineering.
+
+<span class='anchor' id='-links-resources'></span>
+# Links & Resources
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+  
+  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Academic Network</h3>
+    <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 1.8;">
+      <li><a href="http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Prof. Cheng Zhang's Group @ HUST</a></li>
+      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">[Colleague/Lab Link 1]</a></li>
+      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">[Meta-AR Research Group 2]</a></li>
+    </ul>
+  </div>
+  
+  <div style="flex: 1 1 250px; padding: 20px 25px; border-radius: 4px; background-color: #ffffff; border: 1px solid #eaecef; border-left: 4px solid #2b7bb9; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+    <h3 style="margin-top: 0; margin-bottom: 12px; font-size: 18px; color: #24292e;">Toolkit & Resources</h3>
+    <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 1.8;">
+      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">MATLAB / Reticolo RCWA Toolkit</a></li>
+      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Blender bpy API Scripts for Optics</a></li>
+      <li><a href="#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">iOS Scriptable Utilities</a></li>
+    </ul>
+  </div>
+
+</div>
