@@ -205,6 +205,7 @@ redirect_from:
       <li><a href="http://www.bitnanolab.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Lingling Huang's LNND @BIT</a></li>
       <li><a href="https://taoli.nju.edu.cn/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Tao Li's MIT Group @NJU</a></li>
       <li><a href="https://whuneal.wordpress.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Zhongyang Li's NEAL Group @WHU</a></li>
+      <li><a href="https://web.stanford.edu/group/fan/index.html" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">FAN Group @Stanford</a></li>
     </ul>
   </div>
   
@@ -212,6 +213,7 @@ redirect_from:
     <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 15px; color: #24292e; text-transform: uppercase; letter-spacing: 0.5px;">Toolkit & Resources</h3>
     <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 2;">
       <li><a href="https://www.lp2n.institutoptique.fr/light-complex-nanostructures#" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">RETICOLO</a> <span style="font-size: 0.9em; color: #888;">- RCWA solver</span></li>
+      <li><a href="https://web.stanford.edu/group/fan/S4/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">S4</a> <span style="font-size: 0.9em; color: #888;">- Stanford Stratified Structure Solver</span></li>
       <li><a href="https://www.ansys.com/zh-cn/products/optics/fdtd" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Lumerical FDTD</a> <span style="font-size: 0.9em; color: #888;">- Nanophotonic simulation</span></li>
       <li><a href="https://github.com/NanoComp/meep" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">MEEP</a> <span style="font-size: 0.9em; color: #888;">- FDTD simulation</span></li>
       <li><a href="https://www.klayout.de/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">KLayout</a> <span style="font-size: 0.9em; color: #888;">- GDSII mask layout</span></li>
