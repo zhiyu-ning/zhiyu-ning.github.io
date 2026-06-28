@@ -164,6 +164,19 @@ redirect_from:
   </div>
 </div>
 
+
+<br>
+<div style="margin-top: 10px;">
+  <a href="/assets/Nanophotonics_cover_paper_with_SI_2026.pdf" 
+     target="_blank" 
+     rel="noopener"
+     style="display: inline-block; padding: 5px 12px; background-color: #2b7bb9; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px;">
+    📄 PDF
+  </a>
+</div>
+
+
+
 <span class='anchor' id='-patents'></span>
 # Patents
 <ul style="margin: 0; padding-left: 20px; line-height: 1.8; font-size: 16px;">
