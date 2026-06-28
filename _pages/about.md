@@ -148,32 +148,35 @@ redirect_from:
 }
 </style>
 
+```html
 <div class="pub-row">
   <div class="pub-image">
     <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
   </div>
+
   <div class="pub-text">
     <strong>Zhiyu Ning</strong>†, Zeyang Liu†*, Deqian Zheng, Niu Liu, Hao Gao, Tianzhang Peng, Ziqian Xi, Xinliang Zhang, Cheng Zhang*, 
     <a href="https://doi.org/10.1002/nap2.70078" style="text-decoration: underline; color: #2b7bb9; font-weight: 500;">
       "Waveguide-based four-channel crosstalk-free metahologram multiplexed by diffraction orders"
     </a>, 
     <strong><em>Nanophotonics</em></strong>, 15(9), e70078 (2026).
+
+    <br>
+
     <a href="https://doi.org/10.1002/nap2.70149" class="cover-badge">
       Featured Cover
     </a>
+
+    <a href="/assets/Nanophotonics_cover_paper_with_SI_2026.pdf" 
+       target="_blank" 
+       rel="noopener"
+       style="display: inline-block; padding: 2px 8px; background-color: #2b7bb9; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 0.85em; margin-left: 8px;">
+      📄 PDF
+    </a>
   </div>
 </div>
+```
 
-
-<br>
-<div style="margin-top: 10px;">
-  <a href="/assets/Nanophotonics_cover_paper_with_SI_2026.pdf" 
-     target="_blank" 
-     rel="noopener"
-     style="display: inline-block; padding: 5px 12px; background-color: #2b7bb9; color: white; text-decoration: none; border-radius: 4px; font-weight: bold; font-size: 14px;">
-    📄 PDF
-  </a>
-</div>
 
 
 
