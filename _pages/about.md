@@ -148,7 +148,6 @@ redirect_from:
 }
 </style>
 
-```html
 <div class="pub-row">
   <div class="pub-image">
     <img src="/images/Nanophotonics_cover_2026.jpg" alt="On-Chip Metahologram">
@@ -175,7 +174,7 @@ redirect_from:
     </a>
   </div>
 </div>
-```
+
 
 
 
