@@ -214,7 +214,7 @@ redirect_from:
   <div style="flex: 1 1 250px;">
     <h3 style="margin-top: 0; margin-bottom: 15px; font-size: 15px; color: #24292e; text-transform: uppercase; letter-spacing: 0.5px;">Related Research Groups</h3>
     <ul style="margin: 0; padding-left: 20px; font-size: 15px; color: #586069; line-height: 2;">
-      <li><a href="https://light.hust.edu.cn/index.htm" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Cheng Zhang Research Group @HUST</a></li>
+
       <li><a href="https://guolab.engin.umich.edu/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">GUO Research Group @UMICH</a></li>
       <li><a href="http://www.holoddd.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Liangcai Cao's HoloLab @THU</a></li>
       <li><a href="http://www.bitnanolab.com/" target="_blank" style="color: #2b7bb9; text-decoration: none; border-bottom: 1px dashed #2b7bb9;">Lingling Huang's LNND @BIT</a></li>
