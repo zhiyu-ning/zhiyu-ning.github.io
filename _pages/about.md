@@ -22,9 +22,6 @@ redirect_from:
     Hello! I am a Ph.D. candidate at <a href="https://www.hust.edu.cn/" style="color: #005bac; font-weight: bold;">Huazhong University of Science and Technology (HUST)</a>, specialized in Optical Engineering. My research focuses on metaphotonics and holographic displays.
     <br><br>
     Contact: <a href="mailto:zhiyuning@hust.edu.cn" style="color: #005bac;">zhiyuning@hust.edu.cn</a>
-   
-</div>
-  </p>
 </div>
 
 <span class='anchor' id='-news'></span>
