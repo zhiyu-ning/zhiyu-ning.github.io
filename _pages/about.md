@@ -19,7 +19,7 @@ redirect_from:
 <div style="background-color: #f0f7ff; padding: 25px; border-radius: 8px; border-left: 5px solid #005bac; margin-bottom: 30px;">
   <h1 style="margin-top: 0; color: #005bac;">About Me</h1>
   <p style="font-size: 16.5px; line-height: 1.7; margin-bottom: 0; color: #24292e;">
-    Hello! I am a Ph.D. candidate at <a href="https://www.hust.edu.cn/" style="color: #005bac; font-weight: bold;">Huazhong University of Science and Technology (HUST)</a>, specialized in Optical Engineering. My research, co-advised by <a href="http://faculty.hust.edu.cn/ZhangCheng/zh_CN/index.htm" style="color: #005bac;">Prof. Cheng Zhang</a> and <a href="http://faculty.hust.edu.cn/LIUZEYANG/zh_CN/index.htm" style="color: #005bac;">Dr. Zeyang Liu</a>, focuses on metaphotonics and holographic displays.
+    Hello! I am a Ph.D. candidate at <a href="https://www.hust.edu.cn/" style="color: #005bac; font-weight: bold;">Huazhong University of Science and Technology (HUST)</a>, specialized in Optical Engineering. My research focuses on metaphotonics and holographic displays.
     <br><br>
     Contact: <a href="mailto:zhiyuning@hust.edu.cn" style="color: #005bac;">zhiyuning@hust.edu.cn</a>
     <div style="margin-top: 15px;">
